@@ -42,5 +42,5 @@ este endpoint requiere de los siguientes parámetros:
  **Products [GET]:** este endpoint requiere del siguiente parámetro:
  - Id (int, mandatory): id del producto a eliminar
 
-En caso de que los productos a modificar o eliminar no se encuentren en la base de datos, se retornará un BadRequest porque el producto no existe.
+_NOTA: En caso de que los productos a modificar o eliminar no se encuentren en la base de datos, se retornará un BadRequest porque el producto no existe._
  

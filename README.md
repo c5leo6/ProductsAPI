@@ -44,3 +44,4 @@ este endpoint requiere de los siguientes parámetros:
 
 _NOTA: En caso de que los productos a modificar o eliminar no se encuentren en la base de datos, se retornará un BadRequest porque el producto no existe._
  
+ Desarrollado por Cristian Leonardo Martínez M. :)

@@ -15,9 +15,5 @@ namespace CatalogRepository
 
         }
         public DbSet<Producto> Producto { get; set; }
-        /*protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-            modelBuilder.Entity<Producto>().T
-        }*/
     }
 }
